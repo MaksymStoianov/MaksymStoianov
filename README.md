@@ -1,5 +1,7 @@
 <h1 align="center">Maksym Stoianov</h1>
 
+
+<!-- Section: Social -->
 <div id="badges" align="center">
   <a href="https://github.com/MaksymStoianov" target="_blank"><img src="https://img.shields.io/github/followers/MaksymStoianov?style=flat&label=GitHub" alt="GitHub"></a>
   <a href="https://youtube.com/@MaksymStoianov" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCB49p5DaPxbqP5no0EmMwOA?style=flat&label=YouTube" alt="Youtube"></a>
@@ -8,3 +10,121 @@
   <a href="https://linkedin.com/in/MaksymStoianov" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-gray?style=flat" alt="LinkedIn"></a>
   <a href="https://t.me/MaksymStoianov" target="_blank"><img src="https://img.shields.io/badge/Telegram-gray?style=flat" alt="Telegram"></a>
 </div>
+
+
+
+<!-- Section: Repositories -->
+<details>
+  <summary><b>Repositories</b></summary>
+  
+  <h4>Libraries</h4>
+  <table width="100%">
+    <thead>
+      <tr>
+        <th>
+          <img width="200" height="1">
+          <p><small>Name</small></p>
+        </th>
+        <th>
+          <img width="100" height="1">
+          <p><small>Version</small></p>
+        </th>
+        <th>
+          <p><small>Tags</small></p>
+        </th>
+        <th>
+          <p><small>Languages</small></p>
+        </th>
+        <th>
+          <p><small>Description</small></p>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="/MaksymStoianov/Cron">Cron</a></td>
+        <td>1.0.0</td>
+        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="/MaksymStoianov/EventEmitter">EventEmitter</a></td>
+        <td>2.0.2</td>
+        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a> #EventEmitter</td>
+        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="/MaksymStoianov/I18nService">I18nService</a></td>
+        <td>1.1.2</td>
+        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="/MaksymStoianov/SettingsService">SettingsService</a></td>
+        <td></td>
+        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="/MaksymStoianov/Sheet">Sheet</a></td>
+        <td></td>
+        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="/MaksymStoianov/SheetLog">SheetLog</a></td>
+        <td></td>
+        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="/MaksymStoianov/SheetSchema">SheetSchema</a></td>
+        <td></td>
+        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="/MaksymStoianov/SuperCache">SuperCache</a></td>
+        <td></td>
+        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="/MaksymStoianov/SuperProperties">SuperProperties</a></td>
+        <td></td>
+        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="/MaksymStoianov/TelegramApp">TelegramApp</a></td>
+        <td></td>
+        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="/MaksymStoianov/UrlService">UrlService</a></td>
+        <td></td>
+        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="/MaksymStoianov/Utils">Utils</a></td>
+        <td></td>
+        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
