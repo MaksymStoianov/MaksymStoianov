@@ -15,7 +15,7 @@
 
 <!-- Section: Libraries -->
 <details>
-  <summary><h4>Libraries (12)</h4></summary>
+  <summary><b>Libraries (12)</b></summary>
   
   <table width="100%">
     <thead>
