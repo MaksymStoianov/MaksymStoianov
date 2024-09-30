@@ -42,10 +42,10 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="/MaksymStoianov/Cron">Cron</a></td>
+        <td><a href="./MaksymStoianov/Cron">Cron</a></td>
         <td>1.0.0</td>
-        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td><a href="./topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="./search?q=language%3AJavaScript">JavaScript</a></td>
         <td></td>
       </tr>
       <tr>
