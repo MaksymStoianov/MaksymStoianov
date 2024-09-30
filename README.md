@@ -13,11 +13,10 @@
 
 
 
-<!-- Section: Repositories -->
+<!-- Section: Libraries -->
 <details>
-  <summary><b>Repositories</b></summary>
+  <summary><h4>Libraries</h4></summary>
   
-  <h4>Libraries</h4>
   <table width="100%">
     <thead>
       <tr>
@@ -42,87 +41,87 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="./MaksymStoianov/Cron">Cron</a></td>
+        <td><a href="//github.com/MaksymStoianov/Cron">Cron</a></td>
         <td>1.0.0</td>
-        <td><a href="./topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td><a href="./search?q=language%3AJavaScript">JavaScript</a></td>
+        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="//github.com/search?q=language%3AJavaScript">JavaScript</a></td>
         <td></td>
       </tr>
       <tr>
-        <td><a href="/MaksymStoianov/EventEmitter">EventEmitter</a></td>
+        <td><a href="//github.com/MaksymStoianov/EventEmitter">EventEmitter</a></td>
         <td>2.0.2</td>
-        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a> #EventEmitter</td>
-        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a> #EventEmitter</td>
+        <td><a href="//github.com/search?q=language%3AJavaScript">JavaScript</a></td>
         <td></td>
       </tr>
       <tr>
-        <td><a href="/MaksymStoianov/I18nService">I18nService</a></td>
+        <td><a href="//github.com/MaksymStoianov/I18nService">I18nService</a></td>
         <td>1.1.2</td>
-        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="//github.com/search?q=language%3AJavaScript">JavaScript</a></td>
         <td></td>
       </tr>
       <tr>
-        <td><a href="/MaksymStoianov/SettingsService">SettingsService</a></td>
+        <td><a href="//github.com/MaksymStoianov/SettingsService">SettingsService</a></td>
         <td></td>
-        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><a href="/MaksymStoianov/Sheet">Sheet</a></td>
-        <td></td>
-        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="//github.com/search?q=language%3AJavaScript">JavaScript</a></td>
         <td></td>
       </tr>
       <tr>
-        <td><a href="/MaksymStoianov/SheetLog">SheetLog</a></td>
+        <td><a href="//github.com/MaksymStoianov/Sheet">Sheet</a></td>
         <td></td>
-        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><a href="/MaksymStoianov/SheetSchema">SheetSchema</a></td>
-        <td></td>
-        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="//github.com/search?q=language%3AJavaScript">JavaScript</a></td>
         <td></td>
       </tr>
       <tr>
-        <td><a href="/MaksymStoianov/SuperCache">SuperCache</a></td>
+        <td><a href="//github.com/MaksymStoianov/SheetLog">SheetLog</a></td>
         <td></td>
-        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><a href="/MaksymStoianov/SuperProperties">SuperProperties</a></td>
-        <td></td>
-        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="//github.com/search?q=language%3AJavaScript">JavaScript</a></td>
         <td></td>
       </tr>
       <tr>
-        <td><a href="/MaksymStoianov/TelegramApp">TelegramApp</a></td>
+        <td><a href="//github.com/MaksymStoianov/SheetSchema">SheetSchema</a></td>
         <td></td>
-        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><a href="/MaksymStoianov/UrlService">UrlService</a></td>
-        <td></td>
-        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="//github.com/search?q=language%3AJavaScript">JavaScript</a></td>
         <td></td>
       </tr>
       <tr>
-        <td><a href="/MaksymStoianov/Utils">Utils</a></td>
+        <td><a href="//github.com/MaksymStoianov/SuperCache">SuperCache</a></td>
         <td></td>
-        <td><a href="/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td><a href="/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="//github.com/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="//github.com/MaksymStoianov/SuperProperties">SuperProperties</a></td>
+        <td></td>
+        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="//github.com/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="//github.com/MaksymStoianov/TelegramApp">TelegramApp</a></td>
+        <td></td>
+        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="//github.com/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="//github.com/MaksymStoianov/UrlService">UrlService</a></td>
+        <td></td>
+        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="//github.com/search?q=language%3AJavaScript">JavaScript</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="//github.com/MaksymStoianov/Utils">Utils</a></td>
+        <td></td>
+        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="//github.com/search?q=language%3AJavaScript">JavaScript</a></td>
         <td></td>
       </tr>
     </tbody>
