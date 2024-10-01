@@ -1,3 +1,9 @@
+<div align="center">
+  <br/>
+    <img alt="Click to see the source" height="400" src="assets/images/banner.svg" width="800" />
+  <br/>
+</div>
+
 <h1 align="center">Maksym Stoianov</h1>
 
 
