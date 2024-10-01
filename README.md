@@ -4,8 +4,7 @@
   <br/>
 </div>
 
-<h1 align="center">Maksym Stoianov</h1>
-
+<hr>
 
 <!-- Section: Social -->
 <div id="badges" align="center">

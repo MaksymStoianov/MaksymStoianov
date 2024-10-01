@@ -21,20 +21,20 @@
           position: relative;
         }
 
-        .container h2 {
+        .container .style-1 {
           color: #fff;
           font-size: 8em;
         }
 
-        .container h2:nth-child(1) {
+        .container style-1:nth-child(1) {
           color: transparent;
           -webkit-text-stroke: 2px #03a9f4;
         }
 
-        .container h2:nth-child(2) {
+        .container style-1:nth-child(2) {
           position: absolute;
           color: #03a9f4;
-          animation: animate 10s linear infinite;
+          animation: animate 7.5s linear infinite;
         }
 
         @keyframes animate {
@@ -181,8 +181,11 @@
         }
       </style>
       <div class="container">
-        <h2>Maksym Stoianov</h2>
-        <h2>Maksym Stoianov</h2>
+        <div>
+          <h2 class="style-1">Maksym Stoianov</h2>
+          <h2 class="style-1">Maksym Stoianov</h2>
+        </div>
+        <p>MaksymStoianov.com</p>
       </div>
     </div>
   </foreignObject>
