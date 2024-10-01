@@ -1,8 +1,6 @@
-<div align="center">
-  <br/>
-    <img alt="Click to see the source" height="400" src="assets/images/banner-2.svg" width="800" />
-  <br/>
-</div>
+<a href="//github.com/MaksymStoianov">
+  <img src="assets/images/banner-2.svg" width="800" height="350">
+</a>
 
 <hr>
 
