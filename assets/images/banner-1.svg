@@ -1,279 +1,192 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-        @keyframes glitch1 {
-          0% {
-              transform: none;
-              opacity: 1;
-          }
-          7% {
-              transform: skew(-0.5deg, -0.9deg);
-              opacity: 0.75;
-          }
-          10% {
-              transform: none;
-              opacity: 1;
-          }
-          27% {
-              transform: none;
-              opacity: 1;
-          }
-          30% {
-              transform: skew(0.8deg, -0.1deg);
-              opacity: 0.75;
-          }
-          35% {
-              transform: none;
-              opacity: 1;
-          }
-          52% {
-              transform: none;
-              opacity: 1;
-          }
-          55% {
-              transform: skew(-1deg, 0.2deg);
-              opacity: 0.75;
-          }
-          50% {
-              transform: none;
-              opacity: 1;
-          }
-          72% {
-              transform: none;
-              opacity: 1;
-          }
-          75% {
-              transform: skew(0.4deg, 1deg);
-              opacity: 0.75;
-          }
-          80% {
-              transform: none;
-              opacity: 1;
-          }
-          100% {
-              transform: none;
-              opacity: 1;
-          }
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900");
+
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          font-family: "Poppins", sans-serif;
         }
 
-        @keyframes glitch2 {
-          0% {
-              transform: none;
-              opacity: 0.25;
-          }
-          7% {
-              transform: translate(-2px, -3px);
-              opacity: 0.5;
-          }
-          10% {
-              transform: none;
-              opacity: 0.25;
-          }
-          27% {
-              transform: none;
-              opacity: 0.25;
-          }
-          30% {
-              transform: translate(-5px, -2px);
-              opacity: 0.5;
-          }
-          35% {
-              transform: none;
-              opacity: 0.25;
-          }
-          52% {
-              transform: none;
-              opacity: 0.25;
-          }
-          55% {
-              transform: translate(-5px, -1px);
-              opacity: 0.5;
-          }
-          50% {
-              transform: none;
-              opacity: 0.25;
-          }
-          72% {
-              transform: none;
-              opacity: 0.25;
-          }
-          75% {
-              transform: translate(-2px, -6px);
-              opacity: 0.5;
-          }
-          80% {
-              transform: none;
-              opacity: 0.25;
-          }
-          100% {
-              transform: none;
-              opacity: 0.25;
-          }
-        }
-
-        @keyframes glitch3 {
-          0% {
-              transform: none;
-              opacity: 0.25;
-          }
-          7% {
-              transform: translate(2px, 3px);
-              opacity: 0.5;
-          }
-          10% {
-              transform: none;
-              opacity: 0.25;
-          }
-          27% {
-              transform: none;
-              opacity: 0.25;
-          }
-          30% {
-              transform: translate(5px, 2px);
-              opacity: 0.5;
-          }
-          35% {
-              transform: none;
-              opacity: 0.25;
-          }
-          52% {
-              transform: none;
-              opacity: 0.25;
-          }
-          55% {
-              transform: translate(5px, 1px);
-              opacity: 0.5;
-          }
-          50% {
-              transform: none;
-              opacity: 0.25;
-          }
-          72% {
-              transform: none;
-              opacity: 0.25;
-          }
-          75% {
-              transform: translate(2px, 6px);
-              opacity: 0.5;
-          }
-          80% {
-              transform: none;
-              opacity: 0.25;
-          }
-          100% {
-              transform: none;
-              opacity: 0.25;
-          }
-        }
-			
-				@keyframes gradientBackground {
-					0% {
-						background-position: 0% 50%;
-					}
-					50% {
-						background-position: 100% 50%;
-					}
-					100% {
-						background-position: 0% 50%;
-					}
-				}
-
-				@keyframes fadeIn {
-					0% {
-						opacity: 0;
-					}
-					75% {
-						opacity: 0;
-					}
-					100% {
-						opacity: 1;
-					}
-				}
-
-        .animation-typewriter {
-          animation:
-            typewriter 4s steps(44) 1s 1 normal both,
-            blinkTextCursor 500ms steps(44) infinite normal;
-        }
-
-        .animation-glitch {
-          position: relative;
-        }
-        .animation-glitch>*:nth-child(1) {
-          position: relative;
-          color: #fff;
-          animation: glitch1 2.5s infinite;
-          z-index: 1;
-        }
-        .animation-glitch>*:nth-child(2),
-        .animation-glitch>*:nth-child(3) {
-          position: absolute;
-          top: 0;
-          right: 0;
-          z-index: 0;
-        }
-        .animation-glitch>*:nth-child(2) {
-          color: #67f3da;
-          animation: glitch2 2.5s infinite;
-        }
-        .animation-glitch>*:nth-child(3) {
-          color: #f16f6f;
-          animation: glitch3 2.5s infinite;
-        }
-
-				.container {
-					font-family:
-						system-ui,
-						-apple-system,
-            Roboto,
-            sans-serif;
+        .container {
           display: flex;
           flex-direction: column;
           align-items: flex-start;
           margin: 0;
-          padding: 100px 75px 55px;
+          padding: 75px 75px 25px;
           width: calc(100% - 150px);
-          background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
-          background-size: 750% 350%;
-          border-radius: 7px;
-          color: white;
-          animation: gradientBackground 10s ease infinite;
-				}
-
-				h1 {
-					font-size: 35px;
-					line-height: 1.25;
-					letter-spacing: 5px;
-          padding: 0;
-          margin: 10px 0 15px;
-				}
-
-        .style-1 {
-          --text-shadow-color: #dadada75;
-					text-shadow:
-						0 1px 0 var(--text-shadow-color),
-						0 2px 0 var(--text-shadow-color),
-						0 3px 0 var(--text-shadow-color),
-						0 4px 0 var(--text-shadow-color),
-						0 7px 5px rgba(0, 0, 0, 0.1);
+          position: relative;
         }
 
-				p.site {
-          font-size: 20px;
-					text-transform: uppercase;
-          padding: 0;
-          margin: 5px 0 7px;
-				}
-			</style>
-			<div class="container">
-				<h1 class="style-1">Maksym Stoianov</h1>
-        <p class="site animation-glitch">
-          <span>maksymstoianov.com</span>
-          <span>maksymstoianov.com</span>
-          <span>maksymstoianov.com</span>
-        </p>
-			</div>
-		</div>
-	</foreignObject>
+        .container h2 {
+          font-size: 7em;
+        }
+
+        .container .text {
+          color: #fff;
+        }
+
+        .container .text:nth-child(1) {
+          color: transparent;
+          -webkit-text-stroke: 2px #03a9f4;
+        }
+
+        .container .text:nth-child(2) {
+          position: absolute;
+          color: #03a9f4;
+          animation: animate 7.5s linear infinite;
+        }
+
+        @keyframes animate {
+          0%,
+          100% {
+            clip-path: polygon(
+              0% 35%,
+              5% 35%,
+              10% 40%,
+              15% 45%,
+              20% 50%,
+              25% 55%,
+              30% 58%,
+              35% 60%,
+              40% 61%,
+              45% 63%,
+              50% 64%,
+              55% 65%,
+              60% 65%,
+              65% 63%,
+              70% 61%,
+              75% 59%,
+              80% 55%,
+              85% 50%,
+              90% 45%,
+              95% 40%,
+              100% 35%,
+              100% 100%,
+              0% 100%
+            );
+          }
+
+          10% {
+            clip-path: polygon(
+              0% 45%,
+              5% 40%,
+              10% 35%,
+              15% 35%,
+              20% 35%,
+              25% 40%,
+              30% 45%,
+              35% 50%,
+              40% 55%,
+              45% 58%,
+              50% 60%,
+              55% 61%,
+              60% 63%,
+              65% 64%,
+              70% 65%,
+              75% 65%,
+              80% 63%,
+              85% 61%,
+              90% 59%,
+              95% 55%,
+              100% 50%,
+              100% 100%,
+              0% 100%
+            );
+          }
+
+          30% {
+            clip-path: polygon(
+              0% 59%,
+              5% 55%,
+              10% 50%,
+              15% 45%,
+              20% 40%,
+              25% 35%,
+              30% 35%,
+              35% 35%,
+              40% 40%,
+              45% 45%,
+              50% 50%,
+              55% 55%,
+              60% 58%,
+              65% 60%,
+              70% 61%,
+              75% 63%,
+              80% 64%,
+              85% 65%,
+              90% 65%,
+              95% 63%,
+              100% 61%,
+              100% 100%,
+              0% 100%
+            );
+          }
+
+          50% {
+            clip-path: polygon(
+              0% 65%,
+              5% 63%,
+              10% 61%,
+              15% 59%,
+              20% 55%,
+              25% 50%,
+              30% 45%,
+              35% 40%,
+              40% 35%,
+              45% 35%,
+              50% 35%,
+              55% 40%,
+              60% 45%,
+              65% 50%,
+              70% 55%,
+              75% 58%,
+              80% 60%,
+              85% 61%,
+              90% 63%,
+              95% 64%,
+              100% 65%,
+              100% 100%,
+              0% 100%
+            );
+          }
+
+          70% {
+            clip-path: polygon(
+              0% 63%,
+              5% 64%,
+              10% 65%,
+              15% 65%,
+              20% 63%,
+              25% 61%,
+              30% 59%,
+              35% 55%,
+              40% 50%,
+              45% 45%,
+              50% 40%,
+              55% 35%,
+              60% 35%,
+              65% 35%,
+              70% 40%,
+              75% 45%,
+              80% 50%,
+              85% 55%,
+              90% 58%,
+              95% 60%,
+              100% 61%,
+              100% 100%,
+              0% 100%
+            );
+          }
+        }
+      </style>
+      <div class="container">
+        <h2 class="text">Maksym Stoianov</h2>
+        <h2 class="text">Maksym Stoianov</h2>
+      </div>
+    </div>
+  </foreignObject>
 </svg>

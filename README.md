@@ -1,5 +1,5 @@
 <a href="//github.com/MaksymStoianov">
-  <img src="assets/images/banner-2.svg" width="800" height="350">
+  <img src="assets/images/banner-1.svg" width="800" height="400">
 </a>
 
 <hr>
