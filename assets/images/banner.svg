@@ -191,16 +191,22 @@
 					}
 				}
 
+        .glitch {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          margin: 0;
+          text-align: center;
+        }
         .glitch>*:nth-child(1) {
           color: #fff;
           animation: glitch1 2.5s infinite;
         }
-
         .glitch>*:nth-child(2) {
           color: #67f3da;
           animation: glitch2 2.5s infinite;
         }
-
         .glitch>*:nth-child(3) {
           color: #f16f6f;
           animation: glitch3 2.5s infinite;
