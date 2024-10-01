@@ -29,12 +29,12 @@
           color: #fff;
         }
 
-        .container style-1:nth-child(1) {
+        .container .style-1:nth-child(1) {
           color: transparent;
           -webkit-text-stroke: 2px #03a9f4;
         }
 
-        .container style-1:nth-child(2) {
+        .container .style-1:nth-child(2) {
           position: absolute;
           color: #03a9f4;
           animation: animate 7.5s linear infinite;
