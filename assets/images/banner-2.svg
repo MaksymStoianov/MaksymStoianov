@@ -16,40 +16,28 @@
           flex-direction: column;
           align-items: flex-start;
           margin: 0;
-          padding: 100px 75px 55px;
+          padding: 75px 75px 25px;
           width: calc(100% - 150px);
           position: relative;
         }
 
-        .animate {
-          display: flex;
-          flex-direction: column;
-          align-items: flex-start;
-          margin: 0;
-          position: relative;
+        .container h2 {
+          font-size: 7em;
         }
 
-        .animate h2 {
-          font-size: 5em;
-        }
-
-        .animate .text {
+        .container .text {
           color: #fff;
         }
 
-        .animate .text:nth-child(1) {
+        .container .text:nth-child(1) {
           color: transparent;
           -webkit-text-stroke: 2px #03a9f4;
         }
 
-        .animate .text:nth-child(2) {
+        .container .text:nth-child(2) {
           position: absolute;
           color: #03a9f4;
           animation: animate 7.5s linear infinite;
-        }
-
-        .container > a {
-          color: #03a9f4;
         }
 
         @keyframes animate {
@@ -196,11 +184,8 @@
         }
       </style>
       <div class="container">
-        <div class="animate">
-          <h2 class="text">Maksym Stoianov</h2>
-          <h2 class="text">Maksym Stoianov</h2>
-        </div>
-        <p>MaksymStoianov.com</p>
+        <h2 class="text">Maksym Stoianov</h2>
+        <h2 class="text">Maksym Stoianov</h2>
       </div>
     </div>
   </foreignObject>
