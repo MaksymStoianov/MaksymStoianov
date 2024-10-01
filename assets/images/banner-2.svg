@@ -21,23 +21,35 @@
           position: relative;
         }
 
-        .container h2 {
+        .animate {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          margin: 0;
+          position: relative;
+        }
+
+        .animate h2 {
           font-size: 5em;
         }
 
-        .container .style-1 {
+        .animate .text {
           color: #fff;
         }
 
-        .container .style-1:nth-child(1) {
+        .animate .text:nth-child(1) {
           color: transparent;
           -webkit-text-stroke: 2px #03a9f4;
         }
 
-        .container .style-1:nth-child(2) {
+        .animate .text:nth-child(2) {
           position: absolute;
           color: #03a9f4;
           animation: animate 7.5s linear infinite;
+        }
+
+        .container > a {
+          color: #03a9f4;
         }
 
         @keyframes animate {
@@ -184,9 +196,9 @@
         }
       </style>
       <div class="container">
-        <div>
-          <h2 class="style-1">Maksym Stoianov</h2>
-          <h2 class="style-1">Maksym Stoianov</h2>
+        <div class="animate">
+          <h2 class="text">Maksym Stoianov</h2>
+          <h2 class="text">Maksym Stoianov</h2>
         </div>
         <p>MaksymStoianov.com</p>
       </div>
