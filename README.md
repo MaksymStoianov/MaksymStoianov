@@ -17,7 +17,7 @@
 <details>
   <summary align="center"><b>Libraries</b> (12)</summary>
   <br>
-  <table width="100%">
+  <table width="100%" align="center">
     <thead>
       <tr>
         <th>
