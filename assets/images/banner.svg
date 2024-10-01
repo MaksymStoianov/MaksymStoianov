@@ -197,6 +197,8 @@
         .glitch>*:nth-child(2),
         .glitch>*:nth-child(3) {
           position: absolute;
+          top: 0;
+          right: 0;
         }
         .glitch>*:nth-child(1) {
           color: #fff;
