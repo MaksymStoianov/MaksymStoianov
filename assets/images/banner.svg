@@ -191,24 +191,47 @@
 					}
 				}
 
-        .glitch {
+        @keyframes typewriter {
+          from {
+            width: 0;
+          }
+          to {
+            width: 100%;
+          }
+        }
+        @keyframes blinkTextCursor {
+          from {
+            border-right-color: rgba(255,255,255,.75);
+          }
+          to {
+            border-right-color: transparent;
+          }
+        }
+
+        .animation-typewriter {
+          animation:
+            typewriter 4s steps(44) 1s 1 normal both,
+            blinkTextCursor 500ms steps(44) infinite normal;
+        }
+
+        .animation-glitch {
           position: relative;
         }
-        .glitch>*:nth-child(2),
-        .glitch>*:nth-child(3) {
+        .animation-glitch>*:nth-child(2),
+        .animation-glitch>*:nth-child(3) {
           position: absolute;
           top: 0;
           right: 0;
         }
-        .glitch>*:nth-child(1) {
+        .animation-glitch>*:nth-child(1) {
           color: #fff;
           animation: glitch1 2.5s infinite;
         }
-        .glitch>*:nth-child(2) {
+        .animation-glitch>*:nth-child(2) {
           color: #67f3da;
           animation: glitch2 2.5s infinite;
         }
-        .glitch>*:nth-child(3) {
+        .animation-glitch>*:nth-child(3) {
           color: #f16f6f;
           animation: glitch3 2.5s infinite;
         }
@@ -234,28 +257,34 @@
 				}
 
 				h1 {
-					font-size: 40px;
+					font-size: 35px;
 					line-height: 1.25;
 					letter-spacing: 5px;
 					text-transform: uppercase;
+				}
+
+        .style-1 {
           --text-shadow-color: #dadada75;
 					text-shadow:
 						0 1px 0 var(--text-shadow-color),
 						0 2px 0 var(--text-shadow-color),
 						0 3px 0 var(--text-shadow-color),
 						0 4px 0 var(--text-shadow-color),
-						0 12px 5px rgba(0, 0, 0, 0.1);
-				}
+						0 7px 5px rgba(0, 0, 0, 0.1);
+        }
 
 				p {
 					font-size: 20px;
 				}
 			</style>
 			<div class="container">
-				<h1>Maksym Stoianov</h1>
-        <p class="glitch">
+				<h1 class="style-1">Maksym Stoianov</h1>
+        <p class="animation-glitch">
           <span>www.maksymstoianov.com</span>
           <span>www.maksymstoianov.com</span>
+          <span>www.maksymstoianov.com</span>
+        </p>
+        <p class="animation-typewriter">
           <span>www.maksymstoianov.com</span>
         </p>
 			</div>
