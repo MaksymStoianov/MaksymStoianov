@@ -1,0 +1,109 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          position: relative;
+          display: flex;
+          flex-direction: column;
+          width: 100%;
+          margin: 0;
+          padding: 10px;
+          font-family: 'Courier New', Courier, monospace;
+          font-size: 24px;
+          text-align: left;
+          letter-spacing: 2px;
+          color: #00ff00;
+          background-color: black;
+        }
+
+        .container p:before {
+          content: ">";
+          position: absolute;
+          margin-left: -25px;
+          z-index: 1;
+        }
+
+        p {
+          padding-left: 50px;
+        }
+
+        .typewriter {
+          display: inline-block;
+          overflow: hidden;
+          white-space: nowrap;
+          border-right: 2px solid #00ff00;
+          animation: blink 1s step-end infinite;
+        }
+
+        .line1, .line2 {
+          opacity: 0;
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 30ch; /* Задаем ширину для управления анимацией */
+        }
+
+        .line1 {
+          animation: 
+            typeLine1 3s steps(30) forwards, 
+            holdLine1 3s 3s forwards, 
+            eraseLine1 1s steps(30) 6s forwards;
+        }
+
+        .line2 {
+          animation: 
+            typeLine2 3s steps(30) 7s forwards, 
+            holdLine2 3s 10s forwards, 
+            eraseLine2 1s steps(30) 13s forwards;
+        }
+
+        /* Эффект печати для первой строки */
+        @keyframes typeLine1 {
+          0% { width: 0; opacity: 1; }
+          100% { width: 30ch; opacity: 1; }
+        }
+
+        @keyframes holdLine1 {
+          0% { opacity: 1; }
+          100% { opacity: 1; }
+        }
+
+        @keyframes eraseLine1 {
+          0% { width: 30ch; opacity: 1; }
+          100% { width: 0; opacity: 0; }
+        }
+
+        /* Эффект печати для второй строки */
+        @keyframes typeLine2 {
+          0% { width: 0; opacity: 0; }
+          100% { width: 30ch; opacity: 1; }
+        }
+
+        @keyframes holdLine2 {
+          0% { opacity: 1; }
+          100% { opacity: 1; }
+        }
+
+        @keyframes eraseLine2 {
+          0% { width: 30ch; opacity: 1; }
+          100% { width: 0; opacity: 0; }
+        }
+
+        /* Мигающий курсор */
+        @keyframes blink {
+          50% {
+            border-color: transparent;
+          }
+        }
+      </style>
+			<div class="container">
+        <p>Maksym Stoianov</p>
+        <p class="typewriter">
+          <span class="line1">Google Apps Script Developer</span>
+          <span class="line2">Full-Stack Developer</span>
+        </p>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
