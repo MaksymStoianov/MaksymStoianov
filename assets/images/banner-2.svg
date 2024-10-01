@@ -21,9 +21,12 @@
           position: relative;
         }
 
+        .container h2 {
+          font-size: 5em;
+        }
+
         .container .style-1 {
           color: #fff;
-          font-size: 8em;
         }
 
         .container style-1:nth-child(1) {
