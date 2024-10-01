@@ -215,25 +215,22 @@
 
 				.container {
 					font-family:
+						font-family:
 						system-ui,
 						-apple-system,
-						'Segoe UI',
-						Roboto,
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
-					display: flex;
-					flex-direction: column;
-					margin: 0;
-					width: 100%;
-					height: 400px;
-					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
-					background-size: 500% 400%;
-					border-radius: 7px;
-					color: white;
-					animation: gradientBackground 10s ease infinite;
+            Roboto,
+            sans-serif;
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          margin: 0;
+          padding: 125px 75px 55px;
+          width: calc(100% - 150px);
+          background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
+          background-size: 750% 350%;
+          border-radius: 7px;
+          color: white;
+          animation: gradientBackground 10s ease infinite;
 				}
 
 				h1 {
@@ -241,17 +238,17 @@
 					line-height: 1.25;
 					letter-spacing: 5px;
 					text-transform: uppercase;
+          --text-shadow-color: #dadada75;
 					text-shadow:
-						0 1px 0 #efefef,
-						0 2px 0 #efefef,
-						0 3px 0 #efefef,
-						0 4px 0 #efefef,
+						0 1px 0 var(--text-shadow-color),
+						0 2px 0 var(--text-shadow-color),
+						0 3px 0 var(--text-shadow-color),
+						0 4px 0 var(--text-shadow-color),
 						0 12px 5px rgba(0, 0, 0, 0.1);
 				}
 
 				p {
-					font-size: 17px;
-					text-shadow: 0 1px 0 #efefef;
+					font-size: 20px;
 				}
 			</style>
 			<div class="container">
