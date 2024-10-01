@@ -1,6 +1,6 @@
 <div align="center">
   <br/>
-    <img alt="Click to see the source" height="400" src="assets/images/banner-1.svg" width="800" />
+    <img alt="Click to see the source" height="400" src="assets/images/banner-2.svg" width="800" />
   <br/>
 </div>
 

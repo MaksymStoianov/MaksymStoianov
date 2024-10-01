@@ -1,109 +1,189 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
+        @import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900");
+
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          font-family: "Poppins", sans-serif;
+        }
+
         .container {
-          position: relative;
           display: flex;
           flex-direction: column;
-          width: 100%;
+          align-items: flex-start;
           margin: 0;
-          padding: 10px;
-          font-family: 'Courier New', Courier, monospace;
-          font-size: 24px;
-          text-align: left;
-          letter-spacing: 2px;
-          color: #00ff00;
-          background-color: black;
+          padding: 100px 75px 55px;
+          width: calc(100% - 150px);
+          position: relative;
         }
 
-        .container p:before {
-          content: ">";
+        .container h2 {
+          color: #fff;
+          font-size: 8em;
+        }
+
+        .container h2:nth-child(1) {
+          color: transparent;
+          -webkit-text-stroke: 2px #03a9f4;
+        }
+
+        .container h2:nth-child(2) {
           position: absolute;
-          margin-left: -25px;
-          z-index: 1;
+          color: #03a9f4;
+          animation: animate 10s linear infinite;
         }
 
-        p {
-          padding-left: 50px;
-        }
+        @keyframes animate {
+          0%,
+          100% {
+            clip-path: polygon(
+              0% 35%,
+              5% 35%,
+              10% 40%,
+              15% 45%,
+              20% 50%,
+              25% 55%,
+              30% 58%,
+              35% 60%,
+              40% 61%,
+              45% 63%,
+              50% 64%,
+              55% 65%,
+              60% 65%,
+              65% 63%,
+              70% 61%,
+              75% 59%,
+              80% 55%,
+              85% 50%,
+              90% 45%,
+              95% 40%,
+              100% 35%,
+              100% 100%,
+              0% 100%
+            );
+          }
 
-        .typewriter {
-          display: inline-block;
-          overflow: hidden;
-          white-space: nowrap;
-          border-right: 2px solid #00ff00;
-          animation: blink 1s step-end infinite;
-        }
+          10% {
+            clip-path: polygon(
+              0% 45%,
+              5% 40%,
+              10% 35%,
+              15% 35%,
+              20% 35%,
+              25% 40%,
+              30% 45%,
+              35% 50%,
+              40% 55%,
+              45% 58%,
+              50% 60%,
+              55% 61%,
+              60% 63%,
+              65% 64%,
+              70% 65%,
+              75% 65%,
+              80% 63%,
+              85% 61%,
+              90% 59%,
+              95% 55%,
+              100% 50%,
+              100% 100%,
+              0% 100%
+            );
+          }
 
-        .line1, .line2 {
-          opacity: 0;
-          position: absolute;
-          top: 0;
-          left: 0;
-          width: 30ch; /* Задаем ширину для управления анимацией */
-        }
+          30% {
+            clip-path: polygon(
+              0% 59%,
+              5% 55%,
+              10% 50%,
+              15% 45%,
+              20% 40%,
+              25% 35%,
+              30% 35%,
+              35% 35%,
+              40% 40%,
+              45% 45%,
+              50% 50%,
+              55% 55%,
+              60% 58%,
+              65% 60%,
+              70% 61%,
+              75% 63%,
+              80% 64%,
+              85% 65%,
+              90% 65%,
+              95% 63%,
+              100% 61%,
+              100% 100%,
+              0% 100%
+            );
+          }
 
-        .line1 {
-          animation: 
-            typeLine1 3s steps(30) forwards, 
-            holdLine1 3s 3s forwards, 
-            eraseLine1 1s steps(30) 6s forwards;
-        }
-
-        .line2 {
-          animation: 
-            typeLine2 3s steps(30) 7s forwards, 
-            holdLine2 3s 10s forwards, 
-            eraseLine2 1s steps(30) 13s forwards;
-        }
-
-        /* Эффект печати для первой строки */
-        @keyframes typeLine1 {
-          0% { width: 0; opacity: 1; }
-          100% { width: 30ch; opacity: 1; }
-        }
-
-        @keyframes holdLine1 {
-          0% { opacity: 1; }
-          100% { opacity: 1; }
-        }
-
-        @keyframes eraseLine1 {
-          0% { width: 30ch; opacity: 1; }
-          100% { width: 0; opacity: 0; }
-        }
-
-        /* Эффект печати для второй строки */
-        @keyframes typeLine2 {
-          0% { width: 0; opacity: 0; }
-          100% { width: 30ch; opacity: 1; }
-        }
-
-        @keyframes holdLine2 {
-          0% { opacity: 1; }
-          100% { opacity: 1; }
-        }
-
-        @keyframes eraseLine2 {
-          0% { width: 30ch; opacity: 1; }
-          100% { width: 0; opacity: 0; }
-        }
-
-        /* Мигающий курсор */
-        @keyframes blink {
           50% {
-            border-color: transparent;
+            clip-path: polygon(
+              0% 65%,
+              5% 63%,
+              10% 61%,
+              15% 59%,
+              20% 55%,
+              25% 50%,
+              30% 45%,
+              35% 40%,
+              40% 35%,
+              45% 35%,
+              50% 35%,
+              55% 40%,
+              60% 45%,
+              65% 50%,
+              70% 55%,
+              75% 58%,
+              80% 60%,
+              85% 61%,
+              90% 63%,
+              95% 64%,
+              100% 65%,
+              100% 100%,
+              0% 100%
+            );
+          }
+
+          70% {
+            clip-path: polygon(
+              0% 63%,
+              5% 64%,
+              10% 65%,
+              15% 65%,
+              20% 63%,
+              25% 61%,
+              30% 59%,
+              35% 55%,
+              40% 50%,
+              45% 45%,
+              50% 40%,
+              55% 35%,
+              60% 35%,
+              65% 35%,
+              70% 40%,
+              75% 45%,
+              80% 50%,
+              85% 55%,
+              90% 58%,
+              95% 60%,
+              100% 61%,
+              100% 100%,
+              0% 100%
+            );
           }
         }
       </style>
-			<div class="container">
-        <p>Maksym Stoianov</p>
-        <p class="typewriter">
-          <span class="line1">Google Apps Script Developer</span>
-          <span class="line2">Full-Stack Developer</span>
-        </p>
-			</div>
-		</div>
-	</foreignObject>
+      <div class="container">
+        <h2>Maksym Stoianov</h2>
+        <h2>Maksym Stoianov</h2>
+      </div>
+    </div>
+  </foreignObject>
 </svg>
