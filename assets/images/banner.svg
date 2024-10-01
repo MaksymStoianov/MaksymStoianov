@@ -232,7 +232,7 @@
           flex-direction: column;
           align-items: flex-start;
           margin: 0;
-          padding: 125px 75px 55px;
+          padding: 100px 75px 55px;
           width: calc(100% - 150px);
           background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
           background-size: 750% 350%;
@@ -245,7 +245,6 @@
 					font-size: 35px;
 					line-height: 1.25;
 					letter-spacing: 5px;
-					text-transform: uppercase;
           padding: 0;
           margin: 10px 0 15px;
 				}
@@ -260,15 +259,16 @@
 						0 7px 5px rgba(0, 0, 0, 0.1);
         }
 
-				p {
+				p.site {
           font-size: 20px;
+					text-transform: uppercase;
           padding: 0;
           margin: 5px 0 7px;
 				}
 			</style>
 			<div class="container">
 				<h1 class="style-1">Maksym Stoianov</h1>
-        <p class="animation-glitch">
+        <p class="site animation-glitch">
           <span>maksymstoianov.com</span>
           <span>maksymstoianov.com</span>
           <span>maksymstoianov.com</span>
