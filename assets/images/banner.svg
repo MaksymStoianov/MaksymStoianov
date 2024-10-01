@@ -191,23 +191,6 @@
 					}
 				}
 
-        @keyframes typewriter {
-          from {
-            width: 0;
-          }
-          to {
-            width: 100%;
-          }
-        }
-        @keyframes blinkTextCursor {
-          from {
-            border-right-color: rgba(255,255,255,.75);
-          }
-          to {
-            border-right-color: transparent;
-          }
-        }
-
         .animation-typewriter {
           animation:
             typewriter 4s steps(44) 1s 1 normal both,
@@ -217,15 +200,18 @@
         .animation-glitch {
           position: relative;
         }
+        .animation-glitch>*:nth-child(1) {
+          position: relative;
+          color: #fff;
+          animation: glitch1 2.5s infinite;
+          z-index: 1;
+        }
         .animation-glitch>*:nth-child(2),
         .animation-glitch>*:nth-child(3) {
           position: absolute;
           top: 0;
           right: 0;
-        }
-        .animation-glitch>*:nth-child(1) {
-          color: #fff;
-          animation: glitch1 2.5s infinite;
+          z-index: 0;
         }
         .animation-glitch>*:nth-child(2) {
           color: #67f3da;
@@ -238,7 +224,6 @@
 
 				.container {
 					font-family:
-						font-family:
 						system-ui,
 						-apple-system,
             Roboto,
