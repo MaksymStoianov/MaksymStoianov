@@ -194,7 +194,8 @@
         .glitch {
           position: relative;
         }
-        .glitch>* {
+        .glitch>*:nth-child(2),
+        .glitch>*:nth-child(3) {
           position: absolute;
         }
         .glitch>*:nth-child(1) {
