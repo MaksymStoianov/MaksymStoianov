@@ -11,12 +11,12 @@
   <a href="https://t.me/MaksymStoianov" target="_blank"><img src="https://img.shields.io/badge/Telegram-gray?style=flat" alt="Telegram"></a>
 </div>
 
-
+<br>
 
 <!-- Section: Libraries -->
 <details>
-  <summary><b>Libraries (12)</b></summary>
-  
+  <summary align="center"><b>Libraries</b> (12)</summary>
+  <br>
   <table width="100%">
     <thead>
       <tr>
