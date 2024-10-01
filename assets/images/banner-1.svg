@@ -9,6 +9,8 @@
           padding: 0;
           box-sizing: border-box;
           font-family: "Poppins", sans-serif;
+          --color: #478be6;
+          /* --color: #03a9f4; */
         }
 
         .container {
@@ -31,12 +33,12 @@
 
         .container .text:nth-child(1) {
           color: transparent;
-          -webkit-text-stroke: 2px #03a9f4;
+          -webkit-text-stroke: 2px var(--color);
         }
 
         .container .text:nth-child(2) {
           position: absolute;
-          color: #03a9f4;
+          color: var(--color);
           animation: animate 7.5s linear infinite;
         }
 
