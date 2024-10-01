@@ -191,17 +191,17 @@
 					}
 				}
 
-        .glitch1:nth-child(1) {
+        .glitch>*:nth-child(1) {
           color: #fff;
           animation: glitch1 2.5s infinite;
         }
 
-        .glitch3:nth-child(2) {
+        .glitch>*:nth-child(2) {
           color: #67f3da;
           animation: glitch2 2.5s infinite;
         }
 
-        .glitch3:nth-child(3) {
+        .glitch>*:nth-child(3) {
           color: #f16f6f;
           animation: glitch3 2.5s infinite;
         }
@@ -248,14 +248,15 @@
 				p {
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
-					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
 			</style>
 			<div class="container">
 				<h1>Maksym Stoianov</h1>
-				<p class="glitch1">www.maksymstoianov.com</p>
-				<p class="glitch2">www.maksymstoianov.com</p>
-				<p class="glitch3">www.maksymstoianov.com</p>
+        <p class="glitch">
+          <span>www.maksymstoianov.com</span>
+          <span>www.maksymstoianov.com</span>
+          <span>www.maksymstoianov.com</span>
+        </p>
 			</div>
 		</div>
 	</foreignObject>
