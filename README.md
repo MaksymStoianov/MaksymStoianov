@@ -25,19 +25,22 @@
       <tr>
         <th>
           <img width="150" height="1">
-          <p><small>Name</small></p>
+          <p><small>Name</small> ⏷</p>
         </th>
         <th>
           <img width="75" height="1">
           <p><small>Version</small></p>
         </th>
         <th>
+          <img width="5" height="1">
           <p><small>Tags</small></p>
         </th>
         <th>
+          <img width="5" height="1">
           <p><small>Languages</small></p>
         </th>
         <th>
+          <img width="5" height="1">
           <p><small>Description</small></p>
         </th>
       </tr>
