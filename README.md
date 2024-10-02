@@ -114,6 +114,13 @@
         <td></td>
       </tr>
       <tr>
+        <td><a href="//github.com/MaksymStoianov/TriggerService">TriggerService</a></td>
+        <td align="center"></td>
+        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td>TypeScript</td>
+        <td></td>
+      </tr>
+      <tr>
         <td><a href="//github.com/MaksymStoianov/UrlService">UrlService</a></td>
         <td align="center"></td>
         <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
