@@ -38,32 +38,46 @@
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/Cron">Cron</a></td>
         <td align="center" valign="top">1.0.0</td>
-        <td><b>Cron</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that implements task scheduling using cron expressions.</td>
+        <td>
+          <p><b>Cron</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that implements task scheduling using cron expressions.</p>
+        </td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/EventEmitter">EventEmitter</a></td>
         <td align="center" valign="top">2.0.2</td>
-        <td><b>EventEmitter</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that implements an event-driven architecture, allowing for easy interaction between different components of an application using the "publisher-subscriber" mechanism.</td>
+        <td>
+          <p><b>EventEmitter</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that implements an event-driven architecture, allowing for easy interaction between different components of an application using the "publisher-subscriber" mechanism.</p>
+        </td>
       </tr>
       <tr>
         <td valign="top">⤷ Net</td>
         <td align="center" valign="top"></td>
-        <td valign="top"><b>Net</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that extends the functionality of <b>EventEmitter</b>, enabling network communication between application components.</td>
+        <td valign="top">
+          <p><b>Net</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that extends the functionality of <b>EventEmitter</b>, enabling network communication between application components.</p>
+        </td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/I18nService">I18nService</a></td>
         <td align="center" valign="top">1.1.2</td>
-        <td valign="top"><b>I18nService</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that implements internationalization (i18n) support, allowing you to easily manage translations and localization of your application for various languages and regions.</td>
+        <td valign="top">
+          <p><b>I18nService</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that implements internationalization (i18n) support, allowing you to easily manage translations and localization of your application for various languages and regions.</p>
+        </td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/SettingsService">SettingsService</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><b>SettingsService</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that works similarly to <b>PropertiesService</b> but with enhanced capabilities. It optimizes the process of reading and writing properties, reducing the load on system limits.</td>
+        <td valign="top">
+          <p><b>SettingsService</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that works similarly to <b>PropertiesService</b> but with enhanced capabilities.</p>
+          <p>It optimizes the process of reading and writing properties, reducing the load on system limits.</p>
+        </td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/Sheet">Sheet</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><b>Sheet</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that serves as a wrapper around <code>SpreadsheetApp.Sheet</code>, providing enhanced functionality for working with sheet objects in Google Sheets. This tool simplifies interaction with sheet objects and allows efficient data management, offering additional methods and convenient interfaces for working with spreadsheets.</td>
+        <td valign="top">
+          <p><b>Sheet</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that serves as a wrapper around <code>SpreadsheetApp.Sheet</code>, providing enhanced functionality for working with sheet objects in Google Sheets.</p>
+          <p>This tool simplifies interaction with sheet objects and allows efficient data management, offering additional methods and convenient interfaces for working with spreadsheets.</p>
+        </td>
       </tr>
       <tr>
         <td valign="top">⤷ <a href="//github.com/MaksymStoianov/SheetLog">SheetLog</a></td>
