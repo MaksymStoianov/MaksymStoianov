@@ -18,7 +18,7 @@
 
 <!-- Section: Libraries -->
 <details>
-  <summary align="center"><b>Libraries</b> (13)</summary>
+  <summary align="center"><b>Libraries</b> (14)</summary>
   <br>
   <table width="100%" align="center">
     <thead>
@@ -51,8 +51,8 @@
           <p><a href="//github.com/MaksymStoianov/Cron">Cron</a></p>
         </td>
         <td align="center">1.0.0</td>
-        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td>JavaScript</td>
+        <td><a href="//github.com/topics/google-apps-script"><small>#GoogleAppsScript</small></a></td>
+        <td><small>JavaScript</small></td>
         <td></td>
       </tr>
       <tr>
@@ -60,8 +60,8 @@
           <p><a href="//github.com/MaksymStoianov/EventEmitter">EventEmitter</a></p>
         </td>
         <td align="center">2.0.2</td>
-        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a> #EventEmitter</td>
-        <td>JavaScript</td>
+        <td><a href="//github.com/topics/google-apps-script"><small>#GoogleAppsScript</small></a> #EventEmitter</td>
+        <td><small>JavaScript</small></td>
         <td></td>
       </tr>
       <tr>
@@ -69,8 +69,8 @@
           <p>⤷ Net</p>
         </td>
         <td align="center"></td>
-        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td>JavaScript</td>
+        <td><a href="//github.com/topics/google-apps-script"><small>#GoogleAppsScript</small></a></td>
+        <td><small>JavaScript</small></td>
         <td></td>
       </tr>
       <tr>
@@ -78,8 +78,8 @@
           <p><a href="//github.com/MaksymStoianov/I18nService">I18nService</a></p>
         </td>
         <td align="center">1.1.2</td>
-        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td>JavaScript</td>
+        <td><a href="//github.com/topics/google-apps-script"><small>#GoogleAppsScript</small></a></td>
+        <td><small>JavaScript</small></td>
         <td></td>
       </tr>
       <tr>
@@ -87,8 +87,8 @@
           <p><a href="//github.com/MaksymStoianov/SettingsService">SettingsService</a></p>
         </td>
         <td align="center"></td>
-        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td>JavaScript</td>
+        <td><a href="//github.com/topics/google-apps-script"><small>#GoogleAppsScript</small></a></td>
+        <td><small>JavaScript</small></td>
         <td></td>
       </tr>
       <tr>
@@ -96,8 +96,8 @@
           <p><a href="//github.com/MaksymStoianov/Sheet">Sheet</a></p>
         </td>
         <td align="center"></td>
-        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td>JavaScript</td>
+        <td><a href="//github.com/topics/google-apps-script"><small>#GoogleAppsScript</small></a></td>
+        <td><small>JavaScript</small></td>
         <td></td>
       </tr>
       <tr>
@@ -105,8 +105,8 @@
           <p>⤷ <a href="//github.com/MaksymStoianov/SheetLog">SheetLog</a></p>
         </td>
         <td align="center"></td>
-        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td>JavaScript</td>
+        <td><a href="//github.com/topics/google-apps-script"><small>#GoogleAppsScript</small></a></td>
+        <td><small>JavaScript</small></td>
         <td></td>
       </tr>
       <tr>
@@ -114,8 +114,8 @@
           <p><a href="//github.com/MaksymStoianov/SheetSchema">SheetSchema</a></p>
         </td>
         <td align="center"></td>
-        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td>JavaScript</td>
+        <td><a href="//github.com/topics/google-apps-script"><small>#GoogleAppsScript</small></a></td>
+        <td><small>JavaScript</small></td>
         <td></td>
       </tr>
       <tr>
@@ -123,8 +123,8 @@
           <p><a href="//github.com/MaksymStoianov/SuperCache">SuperCache</a></p>
         </td>
         <td align="center"></td>
-        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td>JavaScript</td>
+        <td><a href="//github.com/topics/google-apps-script"><small>#GoogleAppsScript</small></a></td>
+        <td><small>JavaScript</small></td>
         <td></td>
       </tr>
       <tr>
@@ -132,8 +132,8 @@
           <p><a href="//github.com/MaksymStoianov/SuperProperties">SuperProperties</a></p>
         </td>
         <td align="center"></td>
-        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td>JavaScript</td>
+        <td><a href="//github.com/topics/google-apps-script"><small>#GoogleAppsScript</small></a></td>
+        <td><small>JavaScript</small></td>
         <td></td>
       </tr>
       <tr>
@@ -141,8 +141,8 @@
           <p><a href="//github.com/MaksymStoianov/TelegramApp">TelegramApp</a></p>
         </td>
         <td align="center"></td>
-        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td>JavaScript</td>
+        <td><a href="//github.com/topics/google-apps-script"><small>#GoogleAppsScript</small></a></td>
+        <td><small>JavaScript</small></td>
         <td></td>
       </tr>
       <tr>
@@ -150,7 +150,7 @@
           <p><a href="//github.com/MaksymStoianov/TriggerService">TriggerService</a></p>
         </td>
         <td align="center"></td>
-        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
+        <td><a href="//github.com/topics/google-apps-script"><small>#GoogleAppsScript</small></a></td>
         <td>TypeScript</td>
         <td></td>
       </tr>
@@ -159,8 +159,8 @@
           <p><a href="//github.com/MaksymStoianov/UrlService">UrlService</a></p>
         </td>
         <td align="center"></td>
-        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td>JavaScript</td>
+        <td><a href="//github.com/topics/google-apps-script"><small>#GoogleAppsScript</small></a></td>
+        <td><small>JavaScript</small></td>
         <td></td>
       </tr>
       <tr>
@@ -168,8 +168,8 @@
           <p><a href="//github.com/MaksymStoianov/Utils">Utils</a></p>
         </td>
         <td align="center"></td>
-        <td><a href="//github.com/topics/google-apps-script">#GoogleAppsScript</a></td>
-        <td>JavaScript</td>
+        <td><a href="//github.com/topics/google-apps-script"><small>#GoogleAppsScript</small></a></td>
+        <td><small>JavaScript</small></td>
         <td></td>
       </tr>
     </tbody>
