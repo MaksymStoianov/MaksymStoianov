@@ -48,62 +48,62 @@
       <tr>
         <td valign="top">⤷ Net</td>
         <td align="center" valign="top"></td>
-        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
+        <td valign="top"><b>Net</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b> is a library ...</td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/I18nService">I18nService</a></td>
         <td align="center" valign="top">1.1.2</td>
-        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
+        <td valign="top"><b>I18nService</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b> is a library ...</td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/SettingsService">SettingsService</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
+        <td valign="top"><b>SettingsService</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b> is a library ...</td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/Sheet">Sheet</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
+        <td valign="top"><b>Sheet</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b> is a library ...</td>
       </tr>
       <tr>
         <td valign="top">⤷ <a href="//github.com/MaksymStoianov/SheetLog">SheetLog</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
+        <td valign="top"><b>SheetLog</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b> is a library ...</td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/SheetSchema">SheetSchema</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
+        <td valign="top"><b>SheetSchema</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b> is a library ...</td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/SuperCache">SuperCache</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
+        <td valign="top"><b>SuperCache</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b> is a library ...</td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/SuperProperties">SuperProperties</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
+        <td valign="top"><b>SuperProperties</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b> is a library ...</td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/TelegramApp">TelegramApp</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
+        <td valign="top"><b>TelegramApp</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b> is a library ...</td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/TriggerService">TriggerService</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
+        <td valign="top"><b>TriggerService</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b> is a library ...</td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/UrlService">UrlService</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
+        <td valign="top"><b>UrlService</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b> is a library ...</td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/Utils">Utils</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
+        <td valign="top"><b>Utils</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b> is a library ...</td>
       </tr>
     </tbody>
   </table>
