@@ -29,9 +29,6 @@
         <th width="75" scope="col">
           <p><small>Version</small></p>
         </th>
-        <th width="175" scope="col">
-          <p><small>Type</small></p>
-        </th>
         <th scope="col">
           <p><small>Description</small></p>
         </th>
@@ -39,116 +36,74 @@
     </thead>
     <tbody>
       <tr>
-        <td valign="top">
-          <p><a href="//github.com/MaksymStoianov/Cron">Cron</a></p>
-        </td>
+        <td valign="top"><a href="//github.com/MaksymStoianov/Cron">Cron</a></td>
         <td align="center" valign="top">1.0.0</td>
-        <td valign="top"><a href="//github.com/topics/google-apps-script"><small>Google Apps Script</small></a></td>
-        <td><b>Cron</b> for <b>Google Apps Script</b> is a library that implements task scheduling using cron expressions.</td>
+        <td><b>Cron</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that implements task scheduling using cron expressions.</td>
       </tr>
       <tr>
-        <td valign="top">
-          <p><a href="//github.com/MaksymStoianov/EventEmitter">EventEmitter</a></p>
-        </td>
+        <td valign="top"><a href="//github.com/MaksymStoianov/EventEmitter">EventEmitter</a></td>
         <td align="center" valign="top">2.0.2</td>
-        <td valign="top"><a href="//github.com/topics/google-apps-script"><small>Google Apps Script</small></a></td>
-        <td><b>EventEmitter</b> for <b>Google Apps Script</b> is a library that implements an event-driven architecture, allowing for easy interaction between different components of an application using the "publisher-subscriber" mechanism.</td>
+        <td><b>EventEmitter</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that implements an event-driven architecture, allowing for easy interaction between different components of an application using the "publisher-subscriber" mechanism.</td>
       </tr>
       <tr>
-        <td valign="top">
-          <p>⤷ Net</p>
-        </td>
+        <td valign="top">⤷ Net</td>
         <td align="center" valign="top"></td>
-        <td valign="top"><a href="//github.com/topics/google-apps-script"><small>Google Apps Script</small></a></td>
-        <td></td>
+        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
       </tr>
       <tr>
-        <td valign="top">
-          <p><a href="//github.com/MaksymStoianov/I18nService">I18nService</a></p>
-        </td>
+        <td valign="top"><a href="//github.com/MaksymStoianov/I18nService">I18nService</a></td>
         <td align="center" valign="top">1.1.2</td>
-        <td valign="top"><a href="//github.com/topics/google-apps-script"><small>Google Apps Script</small></a></td>
-        <td></td>
+        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
       </tr>
       <tr>
-        <td valign="top">
-          <p><a href="//github.com/MaksymStoianov/SettingsService">SettingsService</a></p>
-        </td>
+        <td valign="top"><a href="//github.com/MaksymStoianov/SettingsService">SettingsService</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><a href="//github.com/topics/google-apps-script"><small>Google Apps Script</small></a></td>
-        <td></td>
+        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
       </tr>
       <tr>
-        <td valign="top">
-          <p><a href="//github.com/MaksymStoianov/Sheet">Sheet</a></p>
-        </td>
+        <td valign="top"><a href="//github.com/MaksymStoianov/Sheet">Sheet</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><a href="//github.com/topics/google-apps-script"><small>Google Apps Script</small></a></td>
-        <td></td>
+        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
       </tr>
       <tr>
-        <td valign="top">
-          <p>⤷ <a href="//github.com/MaksymStoianov/SheetLog">SheetLog</a></p>
-        </td>
+        <td valign="top">⤷ <a href="//github.com/MaksymStoianov/SheetLog">SheetLog</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><a href="//github.com/topics/google-apps-script"><small>Google Apps Script</small></a></td>
-        <td></td>
+        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
       </tr>
       <tr>
-        <td valign="top">
-          <p><a href="//github.com/MaksymStoianov/SheetSchema">SheetSchema</a></p>
-        </td>
+        <td valign="top"><a href="//github.com/MaksymStoianov/SheetSchema">SheetSchema</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><a href="//github.com/topics/google-apps-script"><small>Google Apps Script</small></a></td>
-        <td></td>
+        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
       </tr>
       <tr>
-        <td valign="top">
-          <p><a href="//github.com/MaksymStoianov/SuperCache">SuperCache</a></p>
-        </td>
+        <td valign="top"><a href="//github.com/MaksymStoianov/SuperCache">SuperCache</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><a href="//github.com/topics/google-apps-script"><small>Google Apps Script</small></a></td>
-        <td></td>
+        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
       </tr>
       <tr>
-        <td valign="top">
-          <p><a href="//github.com/MaksymStoianov/SuperProperties">SuperProperties</a></p>
-        </td>
+        <td valign="top"><a href="//github.com/MaksymStoianov/SuperProperties">SuperProperties</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><a href="//github.com/topics/google-apps-script"><small>Google Apps Script</small></a></td>
-        <td></td>
+        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
       </tr>
       <tr>
-        <td valign="top">
-          <p><a href="//github.com/MaksymStoianov/TelegramApp">TelegramApp</a></p>
-        </td>
+        <td valign="top"><a href="//github.com/MaksymStoianov/TelegramApp">TelegramApp</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><a href="//github.com/topics/google-apps-script"><small>Google Apps Script</small></a></td>
-        <td></td>
+        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
       </tr>
       <tr>
-        <td valign="top">
-          <p><a href="//github.com/MaksymStoianov/TriggerService">TriggerService</a></p>
-        </td>
+        <td valign="top"><a href="//github.com/MaksymStoianov/TriggerService">TriggerService</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><a href="//github.com/topics/google-apps-script"><small>Google Apps Script</small></a></td>
-        <td></td>
+        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
       </tr>
       <tr>
-        <td valign="top">
-          <p><a href="//github.com/MaksymStoianov/UrlService">UrlService</a></p>
-        </td>
+        <td valign="top"><a href="//github.com/MaksymStoianov/UrlService">UrlService</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><a href="//github.com/topics/google-apps-script"><small>Google Apps Script</small></a></td>
-        <td></td>
+        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
       </tr>
       <tr>
-        <td valign="top">
-          <p><a href="//github.com/MaksymStoianov/Utils">Utils</a></p>
-        </td>
+        <td valign="top"><a href="//github.com/MaksymStoianov/Utils">Utils</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><a href="//github.com/topics/google-apps-script"><small>Google Apps Script</small></a></td>
-        <td></td>
+        <td valign="top"><b><a href="//github.com/topics/google-apps-script">Google Apps Script</a><b></td>
       </tr>
     </tbody>
   </table>
