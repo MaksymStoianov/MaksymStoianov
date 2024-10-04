@@ -32,11 +32,11 @@
           <p><small>Version</small></p>
         </th>
         <th>
-          <img width="5" height="1">
+          <img width="200" height="1">
           <p><small>Type</small></p>
         </th>
         <th>
-          <img width="250" height="1">
+          <img width="5" height="1">
           <p><small>Description</small></p>
         </th>
       </tr>
