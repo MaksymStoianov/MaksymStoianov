@@ -44,7 +44,7 @@
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/EventEmitter">EventEmitter</a></td>
-        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/EventEmitter"></td>
+        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/EventEmitter?display_name=tag&cacheSeconds=0"></td>
         <td>
           <p><b>EventEmitter</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that implements an event-driven architecture, allowing for easy interaction between different components of an application using the "publisher-subscriber" mechanism.</p>
         </td>
