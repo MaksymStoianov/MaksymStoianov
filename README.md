@@ -29,7 +29,7 @@
         <th width="75">
           <p><small>Version</small></p>
         </th>
-        <th width="200">
+        <th width="175">
           <p><small>Type</small></p>
         </th>
         <th>
