@@ -48,7 +48,7 @@
       <tr>
         <td valign="top">⤷ Net</td>
         <td align="center" valign="top"></td>
-        <td valign="top"><b>Net</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b>.</td>
+        <td valign="top"><b>Net</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that extends the functionality of <b>EventEmitter</b>, enabling network communication between application components.</td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/I18nService">I18nService</a></td>
