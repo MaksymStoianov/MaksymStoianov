@@ -37,35 +37,35 @@
     <tbody>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/Cron">Cron</a></td>
-        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/Cron"></td>
+        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/Cron?label=%20"></td>
         <td>
           <p><b>Cron</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that implements task scheduling using cron expressions.</p>
         </td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/EventEmitter">EventEmitter</a></td>
-        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/EventEmitter?display_name=tag&cacheSeconds=0"></td>
+        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/EventEmitter?label=%20"></td>
         <td>
           <p><b>EventEmitter</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that implements an event-driven architecture, allowing for easy interaction between different components of an application using the "publisher-subscriber" mechanism.</p>
         </td>
       </tr>
       <tr>
         <td valign="top">⤷ Net</td>
-        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/Net"></td>
+        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/Net?label=%20"></td>
         <td valign="top">
           <p><b>Net</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that extends the functionality of <b>EventEmitter</b>, enabling network communication between application components.</p>
         </td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/I18nService">I18nService</a></td>
-        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/I18nService"></td>
+        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/I18nService?label=%20"></td>
         <td valign="top">
           <p><b>I18nService</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that implements internationalization (i18n) support, allowing you to easily manage translations and localization of your application for various languages and regions.</p>
         </td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/SettingsService">SettingsService</a></td>
-        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/SettingsService"></td>
+        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/SettingsService?label=%20"></td>
         <td valign="top">
           <p><b>SettingsService</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that works similarly to <b>PropertiesService</b> but with enhanced capabilities.</p>
           <p>It optimizes the process of reading and writing properties, reducing the load on system limits.</p>
@@ -73,7 +73,7 @@
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/Sheet">Sheet</a></td>
-        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/Sheet"></td>
+        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/Sheet?label=%20"></td>
         <td valign="top">
           <p><b>Sheet</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that serves as a wrapper around <code>SpreadsheetApp.Sheet</code>, providing enhanced functionality for working with sheet objects in Google Sheets.</p>
           <p>This tool simplifies interaction with sheet objects and allows efficient data management, offering additional methods and convenient interfaces for working with spreadsheets.</p>
@@ -81,42 +81,42 @@
       </tr>
       <tr>
         <td valign="top">⤷ <a href="//github.com/MaksymStoianov/SheetLog">SheetLog</a></td>
-        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/SheetLog"></td>
+        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/SheetLog?label=%20"></td>
         <td valign="top"><b>SheetLog</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b>.</td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/SheetSchema">SheetSchema</a></td>
-        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/SheetSchema"></td>
+        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/SheetSchema?label=%20"></td>
         <td valign="top"><b>SheetSchema</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b>.</td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/SuperCache">SuperCache</a></td>
-        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/SuperCache"></td>
+        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/SuperCache?label=%20"></td>
         <td valign="top"><b>SuperCache</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b>.</td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/SuperProperties">SuperProperties</a></td>
-        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/SuperProperties"></td>
+        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/SuperProperties?label=%20"></td>
         <td valign="top"><b>SuperProperties</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b>.</td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/TelegramApp">TelegramApp</a></td>
-        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/TelegramApp"></td>
+        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/TelegramApp?label=%20"></td>
         <td valign="top"><b>TelegramApp</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b>.</td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/TriggerService">TriggerService</a></td>
-        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/TriggerService"></td>
+        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/TriggerService?label=%20"></td>
         <td valign="top"><b>TriggerService</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b>.</td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/UrlService">UrlService</a></td>
-        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/UrlService"></td>
+        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/UrlService?label=%20"></td>
         <td valign="top"><b>UrlService</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b>.</td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/Utils">Utils</a></td>
-        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/Utils"></td>
+        <td align="center" valign="top"><img src="https://img.shields.io/github/v/release/MaksymStoianov/Utils?label=%20"></td>
         <td valign="top"><b>Utils</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b>.</td>
       </tr>
     </tbody>
