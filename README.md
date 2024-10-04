@@ -58,12 +58,12 @@
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/SettingsService">SettingsService</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><b>SettingsService</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b>.</td>
+        <td valign="top"><b>SettingsService</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that works similarly to <b>PropertiesService</b> but with enhanced capabilities. It optimizes the process of reading and writing properties, reducing the load on system limits.</td>
       </tr>
       <tr>
         <td valign="top"><a href="//github.com/MaksymStoianov/Sheet">Sheet</a></td>
         <td align="center" valign="top"></td>
-        <td valign="top"><b>Sheet</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b>.</td>
+        <td valign="top"><b>Sheet</b> for <b><a href="//github.com/topics/google-apps-script">Google Apps Script</a></b> is a library that serves as a wrapper around <code>SpreadsheetApp.Sheet</code>, providing enhanced functionality for working with sheet objects in Google Sheets. This tool simplifies interaction with sheet objects and allows efficient data management, offering additional methods and convenient interfaces for working with spreadsheets.</td>
       </tr>
       <tr>
         <td valign="top">⤷ <a href="//github.com/MaksymStoianov/SheetLog">SheetLog</a></td>
