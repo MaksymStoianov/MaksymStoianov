@@ -44,7 +44,7 @@
         </td>
         <td align="center" valign="top">1.0.0</td>
         <td valign="top"><a href="//github.com/topics/google-apps-script"><small>Google Apps Script</small></a></td>
-        <td><b>EventEmitter</b> for <b>Google Apps Script</b> is a library that implements an event-driven architecture, allowing for easy interaction between different components of an application using the "publisher-subscriber" mechanism.</td>
+        <td><b>Cron</b> for <b>Google Apps Script</b> is a library that implements task scheduling using cron expressions.</td>
       </tr>
       <tr>
         <td valign="top">
@@ -52,7 +52,7 @@
         </td>
         <td align="center" valign="top">2.0.2</td>
         <td valign="top"><a href="//github.com/topics/google-apps-script"><small>Google Apps Script</small></a></td>
-        <td></td>
+        <td><b>EventEmitter</b> for <b>Google Apps Script</b> is a library that implements an event-driven architecture, allowing for easy interaction between different components of an application using the "publisher-subscriber" mechanism.</td>
       </tr>
       <tr>
         <td valign="top">
